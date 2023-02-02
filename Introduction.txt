@@ -1,0 +1,112 @@
+Python is free ,open source and crose platform compatible languageand large statndard library and object oriented
+cross platform(you can run on any operating system)
+
+
+Pyhton Download\
+
+https://www.python.org/downloads/
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
+https://www.anaconda.com/products/distribution/start-coding-immediately
+
+
+>VARIABLES IN Pyhton
+Data/Values can be stored in temporary storage spaces called variable
+Every  variable is associated with a data type
+int
+float
+Boolean
+String
+
+
+>OPERATORS IN Pyhton
+.Arithmetic OPERATORS
+.Relational OPERATORS(<,>,-=,!=)
+.Logical OPERATORS
+
+>PYTHON TOKENS
+Smallest meaningful components in a pprogram
+.Keywords
+.Identifiers
+.Literals
+.OPERATORS
+
+
+IDENTIFIERS  are names used  for variables ,functions or objects
+RULES
+>No special characters expext_(underscore)
+>Idenitifiers are case sensitive
+>First Letter cannot be digit
+
+
+
+StringString are sequence of characters enclosed within signle quote ,double quote or triple quote
+
+
+DATA STRUCTURES IN PYTHON
+Tuple
+Dictionary
+List 
+Set 
+
+TUPLE:
+
+Tuple is a ordered collection of elements enclosed within()
+Tuples are immutable(once you store value in tuple then you can't change the value which is present inside the tuple)
+tup1=(1,'a',True)
+tuple has dfferent types of elements
+
+
+
+LIST:
+List is an ordered collection of elements enclosed within[]
+List are immutablel1=[1,'a',True]
+
+
+
+DICTIONARY:
+Dictionary is an unordered collecion of key-value pairs enclosed with {}
+Dictionary is mutable
+Fruit={"Apple":10 , "Orange":20}
+
+
+
+SET:
+Set is an unordered and unindexed collection of elements enclosed with {}
+Duplicates are not allowed in Set
+s1={1,"a",True}
+
+
+
+IF STATEMENT
+
+
+LOOPING STATEMENT
+
+looping statement are used to repeat a task multiple times
+Syntax:
+while condition
+execute statetment
+
+
+FOR LOOP
+For loop is used to iterate over a sequence (tuple,list ,dictionary,...)
+syntax:
+for val in sepuence:
+body of for
+
+
+#FUNCTION IN PYTHON
+Function is a block oof code wich performs a specific task
+
+2 TYPES OF FUNCTION
+NORMAL Function
+
+def funcion_name:
+Execute statement
+
+
+LAMBDA Function
+also known as "annymous function"
+lambda arguments :expression
+
+

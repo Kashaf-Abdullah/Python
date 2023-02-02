@@ -1,0 +1,21 @@
+PYTHON OBJECT ORIENTED PROGRAMMIING
+
+CLASSES:
+class is a template/blue-prit for real world entities
+Properties(Color,cost,battery life -->phone)
+Behavious(Make calls, watch videos, play games--->phone)
+
+class is a user define data type
+color,cost====>attribute
+make calls,watch videos==>methods
+
+
+Objects
+objects are specific instance of a class
+
+
+
+
+ADDIN PARAMETERS TO THE CLASS
+
+CRAETING A CLASS WITH CONSTRUCTOR

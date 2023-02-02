@@ -1,0 +1,8 @@
+With inheritance one class can derive the properties of another class
+
+
+TYPES OF inheritance
+1.Single inheritance
+2.Multiple inheritance
+3.Multi-level inheritance
+4.Hybrod inheritance
